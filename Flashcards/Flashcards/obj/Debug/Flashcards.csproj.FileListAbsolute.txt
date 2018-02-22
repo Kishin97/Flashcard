@@ -1,0 +1,28 @@
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.exe.config
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.exe
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.pdb
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.csprojResolveAssemblyReference.cache
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Form1.resources
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Form2.resources
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Properties.Resources.resources
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.GenerateResource.Cache
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.CoreCompileInputs.cache
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.exe
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.pdb
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Quiz_Mode.resources
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Leaderboard.resources
+C:\Users\Kishin\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.Help.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\bin\Debug\Flashcards.exe.config
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\bin\Debug\Flashcards.exe
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\bin\Debug\Flashcards.pdb
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.csprojResolveAssemblyReference.cache
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Form1.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Form2.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Help.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Leaderboard.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Properties.Resources.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.Quiz_Mode.resources
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.GenerateResource.Cache
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.csproj.CoreCompileInputs.cache
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.exe
+C:\Users\Kishin\Github Repo\2-2-18-K\Flashcards\Flashcards\obj\Debug\Flashcards.pdb
